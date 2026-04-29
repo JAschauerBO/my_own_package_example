@@ -9,8 +9,7 @@ Encoding: UTF-8
 Language: en-GB
 License: GPL(>=2)
 Depends: R (>= 4.0.0)
-Imports: devtools,dichromat,fields,ggplot2,stats,terra,viridis
 Suggests: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-07-10 11:06:03 UTC; JAschauerBO
+Packaged: 2026-04-29 17:46:07 UTC; JAschauerBO
