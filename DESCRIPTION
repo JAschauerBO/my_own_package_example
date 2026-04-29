@@ -1,4 +1,4 @@
-Package: my_own_package_example
+Package: myownpkg
 Type: Package
 Title: My first package
 Version: 0.1.0
